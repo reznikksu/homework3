@@ -241,3 +241,60 @@ p {
   line-height: 24px;
   color: #645C55;
 }
+.reeding_banner1{
+  background-image: url(../img/IMAGE-10.jpg);
+  height: 90vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  flex-direction: column;
+}
+.reeding_banner1 h2{
+ 
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+color: #403E3B;
+}
+.reeding_banner1>div {
+  max-width: 300px;
+  margin-right: 60px;
+}
+.reeding_banner2{
+  background-image: url(../img/IMAGE-11.jpg);
+  height: 90vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-left: 60px;
+}
+.reeding_banner2 h2{
+ 
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+color: #403E3B;
+}
+.reeding_banner2>div {
+  max-width: 300px;
+  margin 60px;
+
+}
